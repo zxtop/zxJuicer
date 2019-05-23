@@ -1,0 +1,97 @@
+
+wrong_zhazhiji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/yan0001
+  rotate: true
+  xy: 449, 139
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+image/yan0002
+  rotate: false
+  xy: 383, 153
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+image/yan0003
+  rotate: false
+  xy: 583, 365
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+image/yan0004
+  rotate: false
+  xy: 583, 411
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+image/yan0005
+  rotate: false
+  xy: 383, 105
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+image/yan0006
+  rotate: false
+  xy: 551, 321
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+image/zhazhiji0001
+  rotate: false
+  xy: 2, 2
+  size: 268, 77
+  orig: 268, 77
+  offset: 0, 0
+  index: -1
+image/zhazhiji0002
+  rotate: false
+  xy: 302, 95
+  size: 79, 104
+  orig: 79, 104
+  offset: 0, 0
+  index: -1
+image/zhazhiji0005
+  rotate: false
+  xy: 551, 365
+  size: 30, 92
+  orig: 30, 92
+  offset: 0, 0
+  index: -1
+image/zhazhiji0007
+  rotate: false
+  xy: 2, 81
+  size: 298, 409
+  orig: 298, 409
+  offset: 0, 0
+  index: -1
+image/zhazhiji0008
+  rotate: false
+  xy: 302, 201
+  size: 204, 77
+  orig: 204, 77
+  offset: 0, 0
+  index: -1
+image/zhazhiji0009
+  rotate: false
+  xy: 551, 459
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1
+image/zhazhiji0011
+  rotate: false
+  xy: 302, 280
+  size: 247, 210
+  orig: 247, 210
+  offset: 0, 0
+  index: -1

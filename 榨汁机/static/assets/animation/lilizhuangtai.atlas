@@ -1,0 +1,223 @@
+
+lilizhuangtai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/lili/arm1
+  rotate: false
+  xy: 312, 22
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+image/lili/arm2
+  rotate: true
+  xy: 471, 206
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+image/lili/arm3
+  rotate: false
+  xy: 469, 72
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+image/lili/arm4
+  rotate: false
+  xy: 257, 20
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+image/lili/body
+  rotate: false
+  xy: 265, 74
+  size: 117, 247
+  orig: 117, 247
+  offset: 0, 0
+  index: -1
+image/lili/eye
+  rotate: false
+  xy: 2, 5
+  size: 137, 53
+  orig: 137, 53
+  offset: 0, 0
+  index: -1
+image/lili/eye2
+  rotate: true
+  xy: 429, 83
+  size: 135, 18
+  orig: 135, 18
+  offset: 0, 0
+  index: -1
+image/lili/eye3
+  rotate: true
+  xy: 384, 90
+  size: 128, 43
+  orig: 128, 43
+  offset: 0, 0
+  index: -1
+image/lili/hair
+  rotate: true
+  xy: 2, 60
+  size: 176, 253
+  orig: 176, 253
+  offset: 0, 0
+  index: -1
+image/lili/hand1
+  rotate: true
+  xy: 290, 3
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+image/lili/hand2
+  rotate: true
+  xy: 268, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+image/lili/hand3
+  rotate: true
+  xy: 449, 59
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+image/lili/hand4
+  rotate: false
+  xy: 234, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+image/lili/hand5
+  rotate: false
+  xy: 482, 327
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+image/lili/head
+  rotate: false
+  xy: 2, 238
+  size: 261, 272
+  orig: 261, 272
+  offset: 0, 0
+  index: -1
+image/lili/heixian
+  rotate: true
+  xy: 384, 220
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+image/lili/maozi
+  rotate: false
+  xy: 265, 323
+  size: 215, 187
+  orig: 215, 187
+  offset: 0, 0
+  index: -1
+image/lili/mei1
+  rotate: true
+  xy: 449, 93
+  size: 125, 18
+  orig: 125, 18
+  offset: 0, 0
+  index: -1
+image/lili/mei2
+  rotate: false
+  xy: 141, 29
+  size: 102, 29
+  orig: 102, 29
+  offset: 0, 0
+  index: -1
+image/lili/s1
+  rotate: false
+  xy: 175, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+image/lili/s2
+  rotate: false
+  xy: 399, 16
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+image/lili/s3
+  rotate: true
+  xy: 141, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+image/lili/s4
+  rotate: true
+  xy: 469, 164
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+image/lili/s5
+  rotate: false
+  xy: 399, 53
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+image/lili/s6
+  rotate: false
+  xy: 428, 57
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+image/lili/s7
+  rotate: false
+  xy: 365, 24
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+image/lili/s8
+  rotate: false
+  xy: 469, 114
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+image/lili/yanpi
+  rotate: true
+  xy: 482, 366
+  size: 144, 19
+  orig: 144, 19
+  offset: 0, 0
+  index: -1
+image/lili/zui1
+  rotate: true
+  xy: 313, 5
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+image/lili/zui2
+  rotate: true
+  xy: 471, 244
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+image/lili/zui3
+  rotate: false
+  xy: 194, 4
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
